@@ -1,0 +1,30 @@
+{
+	"ipset": "bi_badbots_1_7d",
+	"started": 1512342156000,
+	"updated": 1518852288000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			165,
+			166,
+			168,
+			208,
+			242 ],
+		"ips": [ 
+			3,
+			2,
+			2,
+			1,
+			1 ],
+		"total": 9
+	},
+	"current": {
+		"hours": [ 
+			0,
+			6 ],
+		"ips": [ 
+			1,
+			1 ],
+		"total": 2
+	}
+}

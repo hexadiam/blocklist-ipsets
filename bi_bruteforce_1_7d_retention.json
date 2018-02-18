@@ -1,0 +1,30 @@
+{
+	"ipset": "bi_bruteforce_1_7d",
+	"started": 1512342158000,
+	"updated": 1518852289000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			165,
+			166,
+			168,
+			208,
+			242 ],
+		"ips": [ 
+			3,
+			2,
+			2,
+			1,
+			1 ],
+		"total": 9
+	},
+	"current": {
+		"hours": [ 
+			0,
+			6 ],
+		"ips": [ 
+			1,
+			1 ],
+		"total": 2
+	}
+}

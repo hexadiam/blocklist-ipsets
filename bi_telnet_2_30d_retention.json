@@ -1,0 +1,28 @@
+{
+	"ipset": "bi_telnet_2_30d",
+	"started": 1512342272000,
+	"updated": 1518455741000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			727,
+			1405 ],
+		"ips": [ 
+			1,
+			1 ],
+		"total": 2
+	},
+	"current": {
+		"hours": [ 
+			0,
+			48,
+			218,
+			412 ],
+		"ips": [ 
+			1,
+			1,
+			1,
+			1 ],
+		"total": 4
+	}
+}
